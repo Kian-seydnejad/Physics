@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Title;
+    src: url(../Fonts/GingerCat.ttf);
+}
+@font-face {
+    font-family: Usual;
+    src: url(../Fonts/BondStory.ttf);
+}
+body{
+    font-family: Usual;
+}
+h3{
+    font-family: Title!important;
+}
